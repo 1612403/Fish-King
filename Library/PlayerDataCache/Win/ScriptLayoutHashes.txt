@@ -1,6 +1,6 @@
 Win
 PlayerPath?
-E:/Education/GameJam2019/src/Build/FishKing.exe
+E:/Education/HK_VII/Game2DProject/TFT/Build/FishKing.exe
 SceneListBegin?
 Assets/Scenes/StartMenu.unity
 Assets/Scenes/GamePlay.unity
